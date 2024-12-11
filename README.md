@@ -1,6 +1,5 @@
 # calorIAs
 
-# CarvasPredicter
 <img src="calorIAs.png">
 
 # Autores
