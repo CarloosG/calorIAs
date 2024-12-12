@@ -22,6 +22,6 @@ Se puede acceder a este mediante el siguiente enlace: https://www.kaggle.com/dat
 # Enlaces:
 Código: https://colab.research.google.com/drive/1Yabh4w1MAHypUb0yoWexXMjn39Jp6Gos?usp=sharing
 
-Video: 
+Video: https://youtu.be/Y7joCF29yDo
 
-Repositorio: 
+Repositorio: https://github.com/CarloosG/calorIAs
