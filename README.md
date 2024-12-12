@@ -17,6 +17,7 @@ Se puede acceder a este mediante el siguiente enlace: https://www.kaggle.com/dat
 - Decision Tree Regressor.
 - Support Vector Machine(SVR).
 - Random Forest Regressor.
+- Perceptron
 
 
 # Enlaces:
